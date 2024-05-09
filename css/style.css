@@ -266,6 +266,14 @@ nav ul {
     transition: all .5s;
 }
 
+.bg-nav nav li a{
+    color: #127fde;
+}
+
+.bg-nav nav li a:hover{
+    color: #444;
+}
+
 nav li {
     display: inline-block;
     margin: 10px;
@@ -278,6 +286,7 @@ nav li a {
     font-size: 11px;
     font-weight: bold;
 }
+
 
 .bg-nav {
     background: #fff;
