@@ -140,6 +140,10 @@ $(document).ready(function () {
         $('.pop3').fadeIn();
     });
 
+    $('.art4').click(function () {
+        $('.pop4').fadeIn();
+    });
+
     $('.popup i').click(function () {
         $('.popup').fadeOut();
     });
